@@ -58,12 +58,3 @@ handles,labels = ax.get_legend_handles_labels()
 l = plt.legend(handles[:2],labels[:2])
 l.remove()
 
-#%%
-sns.lineplot(data=(new.loc[new['crosslinker'] == '5']),x='Time', y='Complex Shear Modulus', legend=False)
-sns.lineplot(data=(new.loc[new['crosslinker'] == '10']),x='Time', y='Complex Shear Modulus', legend=False)
-sns.lineplot(data=(new.loc[new['crosslinker'] == '20']),x='Time', y='Complex Shear Modulus', legend=False)
-
-plt.ylim (1,1200)
-plt.xlim (1,90)
-
-z<# %%
