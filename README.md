@@ -3,3 +3,5 @@ This project contains scripts for the analysis of trends and correlations of mec
 The raw data is multi length-scale viscoelasticity collected on rheometer and magnetic micromanipulator.
 
 - matplotlib, numpy, pandas, seaborn, glob, scipy
+
+Important Note: This code is associated with an unpublished work of my PhD. It is intended for reference purposes only. Do not use or distribute this code until the publication is officially released.
