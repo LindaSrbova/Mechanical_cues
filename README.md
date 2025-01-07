@@ -4,4 +4,4 @@ The raw data is multi length-scale viscoelasticity collected on rheometer and ma
 
 - matplotlib, numpy, pandas, seaborn, glob, scipy
 
-Important Note: This code is associated with an unpublished work of my PhD. It is intended for reference purposes only. Do not use or distribute this code until the publication is officially released.
+Important Note: This code is associated with an unpublished work of my PhD. It is intended for reference purposes only. 
